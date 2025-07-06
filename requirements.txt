@@ -1,0 +1,4 @@
+google-generativeai
+gradio>=4.32
+python-dotenv
+fpdf
